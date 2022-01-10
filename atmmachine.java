@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-public class auto{
+public class atmmachine{
     static Scanner sc=new Scanner(System.in);
     static Date time=java.util.Calendar.getInstance().getTime();
     static List<String> list=new ArrayList<String>();
